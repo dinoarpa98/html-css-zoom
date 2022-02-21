@@ -85,7 +85,6 @@ footer{
 }
 
 .menu-left{
-    color: white;
     display: flex;
     align-items: center;
     padding: 10px;
@@ -97,23 +96,29 @@ footer{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: white;
     
 }
 
 .stopvideo{
+     
      display: flex;
      flex-direction: column;
      justify-content: center;
      align-items: center;
+     color: white;
+     margin-left: 5px;
      
 }
 
 .arrowup{
     margin: 0 10px;
     font-size: 10px;
+   color: white;
+
 }
 
 
 .menu-center{
-    
+    display: flex;
 }
